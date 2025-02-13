@@ -1,6 +1,6 @@
 📌 Arduino Project README
 
-Welcome to our Arduino Project! This project includes various modules to demonstrate fundamental Arduino functionalities. Below is a description of each file:
+Welcome to my Arduino Project! This project includes various modules to demonstrate fundamental Arduino functionalities. Below is a description of each file:
 _________________________________________________________________________________________________________________________________________________________________
 📂 Project Files
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
